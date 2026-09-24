@@ -1,0 +1,3 @@
+[toolchain]
+channel = "stable"
+# Tauri 2 current crates need roughly rustc 1.88+
