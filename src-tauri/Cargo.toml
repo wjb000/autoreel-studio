@@ -1,7 +1,7 @@
 [package]
 name = "autoreel-studio"
 version = "0.1.0"
-description = "AutoReel Studio — automated YouTube content factory"
+description = "AutoReel Studio — animated short films + multi-platform publish"
 authors = ["AutoReel Studio"]
 edition = "2021"
 
